@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <UserList Userdata={users} />
+      <UserList datalist={users} />
     </>
   );
 }
